@@ -97,12 +97,12 @@ function changeColor(color){
     }
 }
 
-const settingBtn=document.querySelector('.toggle-style-switcher')
-// const settingColor=document.querySelector('.style-switcher')
-settingBtn.addEventListener('click',function(){
-    document.querySelector('.style-switcher').classList.toggle("open")
-    console.log(1)
-})
+// const settingBtn=document.querySelector('.toggle-style-switcher')
+// // const settingColor=document.querySelector('.style-switcher')
+// settingBtn.addEventListener('click',function(){
+//     document.querySelector('.style-switcher').classList.toggle("open")
+//     console.log(1)
+// })
 
 // switch nav bar
 const nav=document.querySelector('.nav');//console.log(nav)
